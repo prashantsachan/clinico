@@ -1,0 +1,14 @@
+Module Storage 
+	--FileSystem
+    	-- db
+
+Module PatientPortal
+	Class visitRecord
+	Class PatientProfile
+	Class Medicine
+	Class Dosage
+	Class Course
+	Class 
+
+Module DoctorPortal
+	Class DoctorProfile
